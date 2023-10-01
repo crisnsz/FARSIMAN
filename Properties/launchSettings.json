@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FARSIMAN": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    },
+    "FASIMAN DEBUG": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
